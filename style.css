@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 20px;
+}
+
+header{
+    background-color: rgb(19, 0, 104);
+    color: white;
+    padding: 2px;
+}
+
+a{
+    display: list-item;
+    text-align: start;
+}
